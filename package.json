@@ -30,6 +30,9 @@
     "*.ts": "eslint --cache"
   },
   "dependencies": {
+    "reflect-metadata": "0.1.13",
+    "sqlite3": "4.2.0",
+    "typeorm": "0.2.24",
     "winston": "3.2.1"
   }
 }
