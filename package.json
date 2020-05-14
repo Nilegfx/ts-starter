@@ -1,8 +1,8 @@
 {
-  "name": "poc-nakadi2postgres",
+  "name": "ts-starter",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Ahmed Ayoub Hussein Mahmoud",
+  "author": "Ahmed Ayoub",
   "license": "MIT",
   "scripts": {
     "develop": "nodemon",
