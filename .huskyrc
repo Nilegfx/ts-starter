@@ -1,5 +1,5 @@
 {
   "hooks": {
-    "pre-commit": "echo nile"
+    "pre-commit": "lint-staged"
   }
 }
