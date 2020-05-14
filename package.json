@@ -28,5 +28,8 @@
   },
   "lint-staged": {
     "*.ts": "eslint --cache"
+  },
+  "dependencies": {
+    "winston": "3.2.1"
   }
 }
